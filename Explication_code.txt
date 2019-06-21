@@ -1,0 +1,18 @@
+Structure du code:
+
+    A1 - Private_Company
+    A2 - Data_space
+    B1 - Scroller_html
+    B2 - Analyse_articles
+    
+A1 - Private_Company:
+    Objectif: Obtenir une liste des compagnies privées les plus connus.
+    
+A2 - Data_space:
+    Objectif: Obtenir un graphique qui réprésente l'évolution du référencement de chaque compagnies entre 2010 et 2018.
+    
+B1 - Scroller_html:
+    Objectif: Sauvegarder les html des articles du site web.
+    
+B2 - Analyse_articles:    
+    Objectif: Etablir un graph dynamique Gephi en fonction des années
