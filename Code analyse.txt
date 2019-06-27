@@ -17,6 +17,10 @@ Weight: The "weight" is the number of times the relationship appears over a year
 
 You can look "Rendu_n2" to see relations on each year from 2010 to 2018.
 
+Analyse:
+
 Firstly, on the graph we can see that Moon and Mars are the most popular stars, those who have the most relationship with companies. Otherwise Mars is the star which has the relations with the most weight. Thus, since 2010, Mars is star of solar system the most popular on space news. In addition, every year, attraction for Mars is more significant.
 
 Secondly, if we take relations SpaceX-Mars and Lockheed Martin-Mars, in 2010, their edge weight is similiar. But, after 2010, SpaceX-Mars relation outperform all relation, it's very impressive. This movement highlight ambitious projects of SpaceX and skills of Elon Musk to talk about SpaceX.
+
+Third, thanks to this graph we can see that there are many privates companies in relation with Mars. If someone follows space news he don't see these companies because it aren't highlight.
