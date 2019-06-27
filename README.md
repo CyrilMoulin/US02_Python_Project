@@ -29,4 +29,5 @@ Firstly, on the graph we can see that Moon and Mars are the most popular stars, 
 Secondly, if we take relations SpaceX-Mars and Lockheed Martin-Mars, in 2010, their edge weight is similiar. But, after 2010, SpaceX-Mars relation outperform all relation, it's very impressive. This movement highlight ambitious projects of SpaceX and skills of Elon Musk to talk about SpaceX.
 
 Third, thanks to this graph we can see that there are many privates companies in relation with Mars. If someone follows space news he don't see these companies because it aren't highlight.
-© 2019 GitHub, Inc.
+
+PS : Seul les HTML de 2010, 2011 et 2013 ont été pushé
