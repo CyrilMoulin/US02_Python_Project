@@ -32,8 +32,14 @@ Third, thanks to this graph we can see that there are many privates companies in
 
 Gephi Graph:
 
-Initialisation for edges table
-Import EdgesList_Gephi
-Definition of 
+1 - Import EdgesList_Gephi
+Definition of 'Interval' column in 'IntervalSet'
+Definition of 'Weight' column in 'IntervalDoubleMap'
+
+2 - Import NodesList_Gephi
+Definition of 'Type' column in 'String'
+
+3 - Nodes definition
+Node - Color - Partition - Attribut - Type
 
 PS : Seul les HTML de 2010, 2011 et 2013 ont été pushé
