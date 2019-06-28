@@ -30,4 +30,10 @@ Secondly, if we take relations SpaceX-Mars and Lockheed Martin-Mars, in 2010, th
 
 Third, thanks to this graph we can see that there are many privates companies in relation with Mars. If someone follows space news he don't see these companies because it aren't highlight.
 
+Gephi Graph:
+
+Initialisation for edges table
+Import EdgesList_Gephi
+Definition of 
+
 PS : Seul les HTML de 2010, 2011 et 2013 ont été pushé
